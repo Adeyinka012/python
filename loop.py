@@ -9,4 +9,4 @@ num=20
 print('Table of 20')
 for i in range(1,21):
     x=num *i
-    print('12 x %d = %d' % (i,x))
+    print('20 x %d = %d' % (i,x))
