@@ -5,6 +5,7 @@ for i in color:
         print(i,x)
         
 num=12
+
 print('Table of 12')
 for i in range(1,21):
     x=num *i
