@@ -4,9 +4,9 @@ for i in color:
     for x in fruits:
         print(i,x)
         
-num=12
+num=20
 
-print('Table of 12')
+print('Table of 20')
 for i in range(1,21):
     x=num *i
     print('12 x %d = %d' % (i,x))
