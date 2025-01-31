@@ -16,6 +16,3 @@ def start_game():
     show_score()
     while wanna_play.lower() == "yes":
         guess = int(input("Please enter number between 1 to 10"))
-
-
-        
