@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(250, 134, 2);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#dice{
+    font-size: 320px;
+    color: blue;
+}
+#dice:hover{
+    cursor: pointer;
+}
